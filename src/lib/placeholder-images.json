@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract digital background for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1723987513091-4cc24f8e5c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGlnaXRhbCUyMGFic3RyYWN0fGVufDB8fHx8MTc2MjI2NTYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital abstract"
+    },
+    {
+      "id": "portfolio-web-1",
+      "description": "Screenshot of a modern website design",
+      "imageUrl": "https://images.unsplash.com/photo-1566241440091-ec10de8db2e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3ZWJzaXRlJTIwc2NyZWVuc2hvdHxlbnwwfHx8fDE3NjIyMDIxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "website screenshot"
+    },
+    {
+      "id": "portfolio-web-2",
+      "description": "UI of a web application dashboard",
+      "imageUrl": "https://images.unsplash.com/photo-1592318054338-9074a4968e2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXNoYm9hcmQlMjB1aXxlbnwwfHx8fDE3NjIyNzA4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard ui"
+    },
+    {
+      "id": "portfolio-graphic-1",
+      "description": "A vibrant and modern poster design",
+      "imageUrl": "https://images.unsplash.com/photo-1533319417894-6fbb331e5513?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwb3N0ZXIlMjBkZXNpZ258ZW58MHx8fHwxNzYyMjc1OTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "poster design"
+    },
+    {
+      "id": "portfolio-graphic-2",
+      "description": "Mockup of a company brochure",
+      "imageUrl": "https://images.unsplash.com/photo-1661523892046-c7ae3b169e13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicm9jaHVyZSUyMG1vY2t1cHxlbnwwfHx8fDE3NjIyNzU5OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brochure mockup"
+    },
+    {
+      "id": "portfolio-ad-1",
+      "description": "A creative social media ad banner",
+      "imageUrl": "https://images.unsplash.com/photo-1634316656557-1181c5b12b83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb2NpYWwlMjBtZWRpYSUyMGFkfGVufDB8fHx8MTc2MjI3NTk5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media ad"
+    },
+    {
+      "id": "portfolio-ad-2",
+      "description": "An engaging digital banner ad",
+      "imageUrl": "https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiYW5uZXIlMjBhZHxlbnwwfHx8fDE3NjIyNzU5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "banner ad"
+    },
+    {
+      "id": "social-linkedin",
+      "description": "Mockup of a LinkedIn profile on a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1628191140039-b9d997672620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsaW5rZWRpbiUyMG1vY2t1cHxlbnwwfHx8fDE3NjIyNzc5NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "linkedin mockup"
+    },
+    {
+      "id": "social-instagram",
+      "description": "Mockup of an Instagram profile on a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1611262588024-d12430b98920?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbnN0YWdyYW0lMjBtb2NrdXB8ZW58MHx8fHwxNzYyMjc3OTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "instagram mockup"
+    },
+    {
+      "id": "social-twitter",
+      "description": "Mockup of a Twitter (X) profile on a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1627843563095-f6e94676cfe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx4JTIwbW9ja3VwfGVufDB8fHx8MTc2MjI3Nzk0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "twitter mockup"
+    },
+    {
+      "id": "demo-starter-image",
+      "description": "A clean and modern website layout for a starter plan.",
+      "imageUrl": "https://images.unsplash.com/photo-1609941535028-83e3b0291aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbGVhbiUyMHdlYnNpdGV8ZW58MHx8fHwxNzYyMzIwNDMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clean website"
+    },
+    {
+      "id": "demo-pro-image",
+      "description": "A feature-rich website layout for a pro plan, with a blog section.",
+      "imageUrl": "https://images.unsplash.com/photo-1736580602799-1cc04afa4214?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjB3ZWJzaXRlfGVufDB8fHx8MTc2MjMyMDQzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional website"
+    },
+    {
+      "id": "demo-advance-image",
+      "description": "An advanced e-commerce website layout for an advance plan.",
+      "imageUrl": "https://images.unsplash.com/photo-1688561807426-87333ae6e6c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlY29tbWVyY2UlMjBzdG9yZXxlbnwwfHx8fDE3NjIyNjM5MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce store"
+    }
+  ]
+}
